@@ -1,0 +1,16 @@
+mkdir <directory name> (make directory). Creates a folder
+
+cd <directory name> (change directory). changes to a specified folder
+cd .. (Previous Directory)
+
+code <file_name>. Creates and opens the file in a text editor
+
+ls (list). Shows all files in the current directory
+
+pwd <no arguments> (print working directory). Shows the path name of the current directory
+
+clear <no arguments>. Clears the terminal
+
+gcc <file name> - compiles the program
+
+./<executable file name> - runs a program (use after compiling) 

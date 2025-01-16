@@ -1,0 +1,7 @@
+Errors
+Syntax error: occurs when the compiler cannot recognize a statement because ir violates the language rules.
+runtime errors: occur while the program is running
+
+Assignment Statement
+sum = integer1 + integer2;
+The operator = and + are both called binary operators because each has two operands.

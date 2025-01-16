@@ -1,0 +1,33 @@
+Datatype "void" is the same as nothing
+Ex: int main(void) {}
+
+Output Statement - printf("")
+Ex: printf("Welcome to C!\n")
+
+Escape Sequences - "\" is an escape character
+\n means new line
+
+All variables must be defined with a name and a data type before they can be used in a program.
+Ex: int number; //Creates a number variable
+
+Data type specifies the type of data that a variable can store
+(integer, float, character, etc.)
+
+Variable Names:
+- May consist of letters, digits and underscores
+- CANNOT begin with a digit
+- should be meaningful
+- CANNOT be a keyword (main, include, return, etc)
+
+Multiple word variable:
+underscores - total_commissions
+camelCase - totalCommissions
+
+Assignment Statement:
+sum = integer1 + integer2
+
+Printing:
+printf("Sum is %d\n", sum);
+
+%d conversion specifier (indicates what variable will be printed)
+
