@@ -12,4 +12,7 @@ git commit -m "Meaningful Message" - Commit changes to file
 git push - Push changes to repository
 
 scanf() - No message, only conversion specifier
+scanf("%d", &integer1); // read an integer
+
 puts() - Writes string value to the console, cnanot use conversion modifiers
+puts("Enter the number:");
