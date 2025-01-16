@@ -5,3 +5,11 @@ runtime errors: occur while the program is running
 Assignment Statement
 sum = integer1 + integer2;
 The operator = and + are both called binary operators because each has two operands.
+
+git status - shows untracked files
+git add <folder name> - Stage the changes you want to commit
+git commit -m "Meaningful Message" - Commit changes to file
+git push - Push changes to repository
+
+scanf() - No message, only conversion specifier
+puts() - Writes string value to the console, cnanot use conversion modifiers
